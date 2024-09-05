@@ -27,7 +27,7 @@ tt.register_snippet(function(itemstring)
 		end
 
 		if armor_use then
-			desc = desc .. "\n" .. S("Use: @1", armor_use)
+			desc = desc .. "\n" .. S("Damageability: @1", armor_use)
 		end
 
 		if physics_speed then
