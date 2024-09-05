@@ -1,4 +1,10 @@
 # textdomain: tt_armor
 
-Food item=Еда
-@1 food points=@1 к сытости
+Armor=Броня
+Heal: @1=Исцеление: @1
+Fire: @1=Огонь: @1
+Water: @1=Вода: @1
+Use: @1=Использование: @1
+Speed: @1=Скорость: @1
+Gravity: @1=Гравитация: @1
+Jump: @1=Прыжок: @1
